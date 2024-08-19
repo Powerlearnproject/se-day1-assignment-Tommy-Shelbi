@@ -79,13 +79,13 @@ Prompt engineering is all about crafting questions or statements to get the best
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt
-"Write an essay about architecture."
+"Write an architecture essay."
 Improved prompt
 "Write a 1,500-word essay analyzing the influence of the Gothic architectural style on modern-day skyscraper design. Discuss how elements like pointed arches, ribbed vaults, and flying buttresses have been reinterpreted in contemporary architecture. Provide examples from at least two major cities and reference architectural studies from the last decade."
 
 Explanation:
-Clarity: The improved prompt clearly identifies the topic—Gothic architectural influence on modern skyscrapers—eliminating any ambiguity about what to write.
+Clarity: The improved prompt identifies the topic—Gothic architectural influence on modern skyscrapers—eliminating any ambiguity about what to write.
 
-Specificity: The prompt specifies the elements to focus on (e.g., pointed arches, ribbed vaults) and requires examples from specific contexts (major cities), making it easier for the writer to know what to include.
+Specificity: The prompt specifies the elements to focus on (e.g., pointed arches, and ribbed vaults) and requires examples from specific contexts (major cities), making it easier for the writer to know what to include.
 
 Conciseness: The prompt succinctly conveys all necessary details, ensuring that the writer understands the scope, length, and expectations.
